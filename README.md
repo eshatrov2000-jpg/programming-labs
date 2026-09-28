@@ -9,3 +9,5 @@
 |2|lab2|———|———|
 |3|lab3|———|———|
 |4|lab4|———|———|
+
+| [картинка 1](https://img.magnific.com/free-photo/mythical-video-game-inspired-landscape-with-nature_23-2150974535.jpg?semt=ais_hybrid)
